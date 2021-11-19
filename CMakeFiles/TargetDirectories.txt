@@ -1,0 +1,3 @@
+/home/mingyu/Pi/CMakeFiles/rebuild_cache.dir
+/home/mingyu/Pi/CMakeFiles/edit_cache.dir
+/home/mingyu/Pi/CMakeFiles/test.dir
